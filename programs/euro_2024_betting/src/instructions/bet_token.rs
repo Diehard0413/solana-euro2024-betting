@@ -6,7 +6,7 @@ use {
     },
 };
 use std::mem::size_of;
-use crate::{constants::*, errors::*, events::*, state::*};
+use crate::{constants::*, events::*, state::*};
 
 #[derive(Accounts)]
 pub struct BetToken<'info> {

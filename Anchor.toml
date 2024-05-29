@@ -3,7 +3,7 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-euro2024_betting = "DULGDdPomhYSSHvdzGKpoGip3FuiSoTZ9oEU4bNpCvKr"
+euro_2024_betting = "DULGDdPomhYSSHvdzGKpoGip3FuiSoTZ9oEU4bNpCvKr"
 
 [registry]
 url = "https://api.devnet.solana.com"

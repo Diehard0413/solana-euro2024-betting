@@ -10,7 +10,7 @@ use instructions::*;
 
 declare_id!("DULGDdPomhYSSHvdzGKpoGip3FuiSoTZ9oEU4bNpCvKr");
 #[program]
-pub mod euro2024_betting {
+pub mod euro_2024_betting {
     use super::*;
 
     pub fn initialize(
