@@ -8,7 +8,7 @@ pub mod state;
 
 use instructions::*;
 
-declare_id!("DULGDdPomhYSSHvdzGKpoGip3FuiSoTZ9oEU4bNpCvKr");
+declare_id!("FgHdZx3HP6rA9zcc9pCsjpZhGbePnErG28RjkTmujoe3");
 #[program]
 pub mod euro_2024_betting {
     use super::*;
